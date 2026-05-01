@@ -32,5 +32,5 @@ Task Counter: Menampilkan jumlah tugas yang selesai dari total tugas yang ada.
 
 UI/UX Professional: Tema Midnight Dark Mode dengan desain kartu yang rapi dan bayangan (shadow).
 Screenshot app di HP fisik (<img width="720" height="1600" alt="task1" src="https://github.com/user-attachments/assets/c27271d1-7306-4d01-b7e9-d56ca55df221" 
-                              /><img width="720" height="1600" alt="task2" src="https://github.com/user-attachments/assets/f2b0c67c-1b9e-418a-91b7-bd3959a105e6" />)
+ /><img width="720" height="1600" alt="task2" src="https://github.com/user-attachments/assets/f2b0c67c-1b9e-418a-91b7-bd3959a105e6" />)
 Cara menjalankan project (npx expo start)
